@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "EMAX/Nighthawk-250-Quad-Combo---MT1806-(Glass-&-CF-Mix)",
+    "esc": "Flyduino/KISS-12A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "ReadyToFlyQuads/Flip32+-v2.5-r7",
+    "prop": [
+      "Gemfan 5x3 Multirotor Nylon"
+    ],
+    "arm": "",
+    "battery": [
+      "ReadyMadeRC/1300mAh-3S-35C-Lipo-Pack---XT60-(Wh-14.43)"
+    ],
+    "osd": "",
+    "receiver": "FrSky/Delta-8",
+    "flightcam": "SurveilZone/Sony-960H-CCD-Effio-V-800TVL-Ultra-WDR",
+    "hqcam": "SpyTec/Mobius-Action-Cam",
+    "videotx": "Skyzone/TS5823-200mw-video-transmitter",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
